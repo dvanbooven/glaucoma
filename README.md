@@ -1,4 +1,4 @@
-#Deep Learning Final Project
+# Deep Learning Final Project
 
 Glaucoma is a group of progressive eye diseases characterized by the degeneration of retinal cells and their axons leading to irreversable vision loss. Glaucoma affects over 76 million people globally and has significant challenges to normal detection. A major challenge in glaucoma is that this disease can progress over time silently (or at least minimal symptoms) until vision loss has started to occur. Like most other diseases early detection is critical to slowing disease progression.
 
