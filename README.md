@@ -1,4 +1,5 @@
-Deep Learning Final Project
+#Deep Learning Final Project
+
 Glaucoma is a group of progressive eye diseases characterized by the degeneration of retinal cells and their axons leading to irreversable vision loss. Glaucoma affects over 76 million people globally and has significant challenges to normal detection. A major challenge in glaucoma is that this disease can progress over time silently (or at least minimal symptoms) until vision loss has started to occur. Like most other diseases early detection is critical to slowing disease progression.
 
 Detection of glaucoma involves multimodal assessments combining fundus imaging, tonometry, pachymetry, and visual field testing. However, manual assessment can be subjective and labor intensive which highlights the need for some automated reliable models. Structural changes suggesing disease progression can include cup to disc ratio (CDR) which is a measure of asymmetry between the eyes, neuroretinal rim thinning, peripapillary atrophy or disc hemorrhages etc.
